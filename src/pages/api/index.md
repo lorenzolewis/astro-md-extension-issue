@@ -2,7 +2,7 @@
 
 ### Modules
 
-- [app](godeeper/app.md)
+- [app](app.md)
 - [cli](cli.md)
 - [clipboard](clipboard.md)
 - [dialog](dialog.md)
