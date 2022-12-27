@@ -2,4 +2,4 @@
 
 ### Modules
 
-- [app](app.md)
+- [app](app)
